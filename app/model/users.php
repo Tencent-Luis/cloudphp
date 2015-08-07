@@ -27,3 +27,4 @@ class model_users extends Model
         return $row_num;
     }
 }
+
